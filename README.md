@@ -17,4 +17,8 @@ Everything is also show in "hyper terminal".
 
 ![hyper terminal view](https://github.com/user-attachments/assets/a62bc25b-f7c9-4c8c-bf33-7cef7a1ffaf6)
 
+After few days I soldered few elements on 'zero pcb' and test it with light bulb.
+
+
+https://github.com/user-attachments/assets/7af44017-affc-4974-99e8-d495f4806097
 
